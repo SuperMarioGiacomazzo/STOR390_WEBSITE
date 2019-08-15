@@ -1,5 +1,5 @@
 ---
-title: '**STOR 320: Intro to Data Science**'
+title: '**STOR 390: Sports Analytics**'
 geometry: margin=2
 output:
   html_document:
