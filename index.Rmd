@@ -83,11 +83,21 @@ This course is an application-driven introduction to data science. Statistical a
 
 | Date | Lecture | Slides | Tutorial |
 |------|---------|--------:|---------:|
-|Aug. 21|Introduction | [Slides](https://drive.google.com/file/d/1_8O_HETMg_MS_jj7zjgfUXKv3QUASBl2/view?usp=sharing)||
-|Aug. 23|Data Visualization| [Slides](https://drive.google.com/file/d/1OTIdPsv2ap5qsaWLfuw9q5aGY2lMabRw/view?usp=sharing) | |
+|Aug. 21|Syllabus     | [Slides]()||
+|Aug. 23|Introduction | [Slides]() | |
 |||||
 
-# **Assignment Tracker**
+# **Teams**
+
+# **Assignments**
+
+# **Projects**
+
+### Project 1
+
+### Project 2
+
+### Project 3
 
 All Lab and Analysis assignments are to be submitted via **[Sakai](https://sakai.unc.edu/welcome/)**. 
 
