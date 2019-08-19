@@ -61,16 +61,22 @@ background-color: #13294B;
 
 </style>
 
-This course is an application-driven introduction to data science. Statistical and computational tools are valued throughout the modern workplace from Silicon Valley startups, to marine biology labs, to Wall Street firms. These tools require technical skills such as programming and statistics. They also require professional skills such as communication, teamwork, problem solving, and critical thinking.
+Survey the application of statistics and mathematics to the sports industry exploring the history of analytics across various sports, understanding the advantages of sports analytics for both on-field performance and off-field business decisions, and examining current research to encourage creative thought of future development.
+
+The course will be organized by sport to ensure a comprehensive exploration of sports analytics. We will start with in-depth studies in Baseball, Basketball, American Football, Hockey, and Soccer. Later in the course, we will branch out according to the diverse interests of the class.
+
+The statistical programming language R will be used to generate visualizations and perform basic modeling.
+
+
 
 <div class="row">
   <div class="column">
 
 - Instructor: **[Mario Giacomazzo](http://www.supermariogiacomazzo.com/)**
 
-- Instructional Assistant: **[Xinyuan Niu](http://stat-or.unc.edu/people/graduate-students-department)**
+- Instructional Assistant: **[Samuel Booth](http://stat-or.unc.edu/people/graduate-students-department)**
 
-- **[Course Syllabus](https://drive.google.com/file/d/1GCWeZarTqsu7HajnJqCC8vPNjC3q1LXC/view?usp=sharing)**
+- **[Course Syllabus](https://drive.google.com/file/d/1lTegcZJIH6PQp_8QCaHWn5psQSJZwUAT/view?usp=sharing)**
 
   </div>
   <div class="column">
@@ -78,123 +84,104 @@ This course is an application-driven introduction to data science. Statistical a
   </div>
 </div> 
 
+# **Textbooks**
+
+## Required
+
+- Scorecasting, Moskowitz & Wertheim, 2012, [ISBN: 9780307591807](https://www.amazon.com/Scorecasting-Hidden-Influences-Behind-Sports/dp/0307591808/ref=sr_1_1?keywords=scorecasting&qid=1565992922&s=gateway&sr=8-1) (SCORE)
+
+- Mathletics, Winston, 2012, [ISBN: 9780691154589](https://www.amazon.com/Mathletics-Gamblers-Enthusiasts-Mathematics-Basketball/dp/0691154589/ref=sr_1_1?keywords=mathletics&qid=1565992961&s=gateway&sr=8-1) (MATH)
+
+- Handbook of Statistical Methods and Analyses in Sports, Albert, Glickman, Et al., 2017, [ISBN: 9781498737364](https://www.amazon.com/Handbook-Statistical-Methods-Analyses-Handbooks-ebook/dp/B071X4CCVX/ref=sr_1_1?keywords=handbook+of+statistical+methods+and+analyses+in+sports&qid=1566148999&s=gateway&sr=8-1) (HSMAS)
+
+## Optional
+
+- Analytic Methods in Sports, Severini, 2015, [ISBN: 9781482237016](https://www.amazon.com/Analytic-Methods-Sports-Mathematics-Statistics/dp/1482237016/ref=sr_1_1?keywords=severini+sports+analytics&qid=1565993126&s=gateway&sr=8-1) (AMS)
+
+- Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers, Alamar, 2013, [ISBN: 9780231162920](https://www.amazon.com/Sports-Analytics-Coaches-Managers-Decision/dp/0231162928/ref=sr_1_1?keywords=sports+analytics+alamar&qid=1565993176&s=books&sr=1-1) (SPAN)
+
 
 # **Course Material**
 
-| Date | Lecture | Slides | Tutorial |
+| Date | Lecture | Slides | Reading |
 |------|---------|--------:|---------:|
 |Aug. 21|Syllabus     | [Slides]()||
-|Aug. 23|Introduction | [Slides]() | |
+|Aug. 23|Introduction I | [Slides]()||
+|Aug. 26|Introduction II |[Slides]()||
+|Aug. 28|Baseball I|[Slides]()||
+|Aug. 30|Baseball II|[Slides]()||
+|Sep. 2|No Labor Day|||
+|Sep. 4||[Slides]()||
+|Sep. 6||[Slides]()||
+|Sep. 9||[Slides]()||
+|Sep. 11||[Slides]()||
+|Sep. 13||[Slides]()||
+|Sep. 16||[Slides]()||
+|Sep. 18||[Slides]()||
+|Sep. 20|Cleveland Talk|||
+|Sep. 23||||
+|Sep. 25||||
+|Sep. 27||||
+|Sep. 30||||
+|Oct. 2||||
+|Oct. 4||||
+|Oct. 7||||
+|Oct. 9||||
+|Oct. 11||||
+|Oct. 14||||
+|Oct. 16||||
+|Oct. 18|Fall Break|||
+|Oct. 21||||
+|Oct. 23||||
+|Oct. 25||||
+|Oct. 28||||
+|Oct. 30||||
+|Nov. 1||||
+|Nov. 4||||
+|Nov. 6||||
+|Nov. 8||||
+|Nov. 11||||
+|Nov. 13||||
+|Nov. 15||||
+|Nov. 18||||
+|Nov. 20||||
+|Nov. 22||||
+|Nov. 25||||
+|Nov. 27|Thanksgiving|||
+|Nov. 29|Thanksgiving|||
+|Dec. 2||||
+|Dec. 4||||
 |||||
-
-# **Teams**
 
 # **Assignments**
 
-# **Projects**
+In this class, your performance will be graded using four different assignments: attendance (10%), gameday speeches (20%), regular season (20%), playoffs (30%), and championship (20%). Except for the regular season, this class is a team sport. For the gameday speeches, playoffs, and championship, you will be randomly assigned to a team. Teams will contain 4 or 5 playas and constantly change throughout the semester. You can find your team on this **[spreadsheet](https://drive.google.com/file/d/1T4mtlshZPMGCUSltK8h5Oiu470li8Uyk/view?usp=sharing)**.
 
-### Project 1
-
-### Project 2
-
-### Project 3
-
-All Lab and Analysis assignments are to be submitted via **[Sakai](https://sakai.unc.edu/welcome/)**. 
-
-| Assigned | Lab (L) | Analysis (A) |Solutions| Due Date (Time) |
-|----------|:--------:|:-------------:|:-------------:|----------------:|
-| June 24  | [L1](Lab/Lab 1/Lab_1.html) ([.Rmd](https://drive.google.com/file/d/1jXtRTRStUBiAmceTc0rVuxWq0_wsqJ7r/view?usp=sharing))||[Solutions](Lab/Lab 1/Lab_1_Solutions.html)|June 28 (5 PM) |
-| June 28 | [L2](Lab/Lab 2/Lab_2.html) ([.Rmd](https://drive.google.com/file/d/1qbrv--zda43E3xj4YlxiqNeLwZjccwOu/view?usp=sharing))||[Solutions](Lab/Lab 2/Lab_2_Soln_TK.html)|July 1 (5 PM) |
-| July 1 || [A1](Analysis/Analysis 1/Analysis_1.html) ([.zip](https://drive.google.com/file/d/13J08S62sSh7MazcrQbiRBlWtlzqmx0VW/view?usp=sharing))|[Solutions](Analysis/Analysis 1/Solutions_1.html)|July 5 (5 PM) |
-| July 5 | [L3](Lab/Lab 3/Lab_3.html) ([.Rmd](https://drive.google.com/file/d/14R9FxL7_vBam--s25QYYRM1N4TOs4nTu/view?usp=sharing))||[Solutions](Lab/Lab 3/Lab_3_Solutions.html)|July 8 (5 PM)|
-| July 8 | [L4](Lab/Lab 4/Lab_4.html) ([.Rmd](https://drive.google.com/file/d/1zLBecpK4G7LSusTdWzYJtoz_FT60tYeb/view?usp=sharing))||[Solutions](Lab/Lab 4/Lab_4_Solutions.html)|July 10 (5 PM)|
-| July 10|| [A2](Analysis/Analysis 2/Analysis_2.html) ([.zip](https://drive.google.com/file/d/1I5sckP-XEic_N9iYR7-8CpIrxjQ0PJgV/view?usp=sharing))|[Solutions](Analysis/Analysis 2/Solutions_2b.html)|July 12 (5 PM)|
-| July 12 | [L5](Lab/Lab 5/Lab_5.html) ([.Rmd](https://drive.google.com/file/d/1nfW4gDWLtADfke1ooVnoTFMmdsut0uk2/view?usp=sharing))||[Solutions](Lab/Lab 5/Lab_5_Soln_TK.html)|July 15  (5 PM)|
-| July 15 || [A3](Analysis/Analysis 3/Analysis_3.html) ([.zip](https://drive.google.com/file/d/1Z7GI0vTDktiW6yyis02CGY4eMDejDfr1/view?usp=sharing))|[Solutions](Analysis/Analysis 3/Solutions_3.html)        |July 19 (5 PM)|
-| July 19  | [L6](Lab/Lab 6/Lab_6.html) ([.Rmd](https://drive.google.com/file/d/16zexYq73NJdJkIfg0D226VSIeJfevUzB/view?usp=sharing)) ||[Solutions](Lab/Lab 6/Lab_6_Solutions.html)|July 22 (5 PM)|
-| July 22 | [L7](Lab/Lab 7/Lab_7.html) ([.Rmd](https://drive.google.com/file/d/1eeQAFuUfsb5MSv9szKHtZ3ExLhgIvbNc/view?usp=sharing)) |||July 24 (5 PM)|
-| July 24   |        |  [A4](Analysis/Analysis 4/Analysis_4.html) ([.zip](https://drive.google.com/file/d/1veOCeyVo6nhNo1jrzFPO9QIwoMXPaMga/view?usp=sharing))||July 29 (5 PM)|
-|          |        |             |           |
-
-# **Final Project Details**
-
-For the final project, each section of STOR 320 will be divided (ideally) into reasearch groups of size 5. To ensure fairness, students will be assigned randomly based on the `sample` function in **R**. May God have mercy on your souls. 
-
-## Research Group Assignments
-
-To find your research group, see the **[spreadsheet](https://docs.google.com/spreadsheets/d/1hwmR1xrH7QJNkXjoSpYHdpzcN-mYkIjMZNypVzLP0Jk/edit?usp=sharing)** sponsored by Google.
-
-## Four Roles
-
-Although everyone is responsible for the entire project, each member of the group will be assigned a specific role for accountability and consistency. These four specific roles are described as follows:
-
-- **The Creator:** Schedule and Meet with Dr. Mario to Propose Your Group's Research Idea
-
-- **The Interpreter:** Schedule and Meet with Dr. Mario to Share Findings from Exploratory Analysis
-
-- **The Orator(s):** Give a Captivating 4 Minute Slideshow Presentation During Final Exam Day
-
-- **The Deliverer:** Deliver Your Group from Evil by Editing and Submitting the Exploratory Analysis and Final Written Paper via SAKAI Before the Deadline
-
-## Four Parts Including Point Values
-
-This final project will be divided into four parts worth a total of 100 points. Each part will have a clear rubric as non-subjective as possible. The parts along with total point values are found below:
-
-* **[P1: Project Proposal](Final Project/Project_Proposal.html)** *(10 Points)*
-    + [Data World](https://data.world/)
-    + [US Government Data](https://www.data.gov/)
-    + [Kaggle](https://www.kaggle.com/)
-    + [Free Data Info I](https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#63f06f60b54d)
-    + [Free Data Info II](https://r-dir.com/reference/datasets.html)
+## **Attendance**
 
 
-* **[P2: Exploratory Data Analysis](Final Project/Exploratory_Data_Analysis.html)** *(20 Points)*
-    + [Template](Final Project/EDA_Template.html) ([.Rmd](https://drive.google.com/file/d/1EM2JXvZ9aHX8oLeB5z1MIWFgDCjAFKvn/view?usp=sharing))
-    
-* **[P3: Final Written Paper](Final Project/Final_Paper.html)** *(40 Points)*
-    + [Template](Final Project/Final_Paper_Template.html) ([.Rmd](https://drive.google.com/file/d/16kLjQmszVA5nJyUPwwPy94BltOog6YSO/view?usp=sharing))
-    + [Rank Spreadsheet](https://drive.google.com/file/d/1GMfQRhnKrjmzPK8mrMIr_RLDXBJFQRoZ/view?usp=sharing)
-    
-* **[P4: Final Presentation](Final Project/Final_Presentation.html)** *(30 Points)*
+## **Gameday Speeches**
 
-    
-## Due Dates of Individual Parts
+## **Regular Season**
 
-| Part | Description |Method of Submission| Due Date (Time) |
-|------|-------------|-------------------|----------------:|
-| P1  | Project Proposal| Sakai + Meeting    | July 5 (5PM)|
-| P2  | Exploratory Data Analysis |Sakai + Meeting| July 19 (5PM)|
-| P3  | Final Written Paper|Sakai|July 26 (5 PM)|
-| P4  | Final Presentation|Sakai + Class| July 29 (11:30 AM)|
-||||
+## **Playoffs**
+
+### Round 1
+
+### Round 2
+
+## **Championship**
+
+## **Assignment Tracker**
+
+Any assignments requiring a deliverable will be submitted via **[Sakai](https://sakai.unc.edu/welcome/)**. 
+
+| Assigned | Gameday Speeches | Regular Season | Playoffs | Championship | Due Date (Time) |
+|----------|:--------:|:-------------:|:-------------:|:-------------:|----------------:|
+|||||||
+|          |                   |               |           |              |                 |
 
 
-# **Reading**
 
-- **[R for Data Science](https://drive.google.com/file/d/1Wca-b3m6CTbBQqO7tUEh_CdD3xVgjYVb/view?usp=sharing)** (R4DS)
-
-- **[R Programming for Data Science](https://drive.google.com/file/d/1XVF5v4MTBhIp_dq9MzTI0TtPfVrF6eaZ/view?usp=sharing)** (RP4DS)
-
-- **[Text Mining with R](https://www.tidytextmining.com/)** (TMwR)
-
-- **[The Art of R Programming](https://drive.google.com/file/d/1gR7Yr9-pIZ-f315bZCXfDj9yPWaZDflD/view?usp=sharing)** (AoRP)
-
-- **[A First Course in Statistical Programming with R](https://drive.google.com/file/d/1NBadpF5MLWI3AFsyWo3nbpQnL8sWeZdT/view?usp=sharing)** (FCSPR)
-
-- **[ModernDive](https://moderndive.com/index.html)** (MD)
-
-- **[An Introduction to Statistical Learning](https://drive.google.com/file/d/1jKxVWG89KvWr_-70sOeEeLK4CUB09sRu/view?usp=sharing)** (ISLR)
-
-# **Additional resources**
-
-- **[Rmarkdown Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2016/03/rmarkdown-cheatsheet-2.0.pdf)**
-
-- **[ggplot2 Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)**
-
-- **[Color Options](https://paulvanderlaken.files.wordpress.com/2017/08/ggplot2-color-colours-names-cheatsheet.png?w=559&amp;h=1024)**
-
-- **[Data Wrangling Cheat Sheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)**
-
-- **[R Shiny Cheat Sheet](https://shiny.rstudio.com/images/shiny-cheatsheet.pdf)**
 
 This page was last updated on `r Sys.time()` Eastern Time.
