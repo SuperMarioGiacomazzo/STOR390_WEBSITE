@@ -179,7 +179,7 @@ The statistical programming language R will be used to generate visualizations a
 
 # **Assignments** {.tabset}
 
-In this class, your performance will be graded using four different assignments: practice (10%), gameday speeches (20%), regular season (20%), playoffs (30%), and championship (20%). Except for the regular season, this class is a team sport. For the gameday speeches, playoffs, and championship, you will be randomly assigned to a team. Teams will contain 4 or 5 playas and constantly change throughout the semester. You can find your team on this **[spreadsheet](https://drive.google.com/file/d/1T4mtlshZPMGCUSltK8h5Oiu470li8Uyk/view?usp=sharing)**.
+In this class, your performance will be graded using four different assignments: practice (10%), gameday speeches (20%), regular season (20%), playoffs (30%), and championship (20%). Except for the regular season, this class is a team sport. For the gameday speeches, playoffs, and championship, you will be randomly assigned to a team.
 
 ## Practice
 
@@ -276,7 +276,7 @@ Discuss how analytics have been used historically in the sport, what types of me
 
 Critically think about where you see ways in which analytics can be used to improve the sport. Think about ways in which analytics from other more popular sports could be applicable in the sport you selected. Try to creatively design metrics that could be of use to evaluate performance. This section is the most important and should test your ability to innovate in areas primarily ignored that require innovation for growth. What information does the sport have or not have that could help the organizations, managers, or athletes that are financially invested in the sport you selected.
 
-### Conclusion: 
+### Conclusion
 
 Summarize your paper and discuss what appreciation you gained for this sport after your in-depth analysis.
 
@@ -318,11 +318,13 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 
 # **Team Sport**
 
-Many of the assessments in this course will be done in a teams of 4 or 5 students randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 5 and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this.
+Many of the assessments in this course will be done in a teams of 4 or 5 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 5, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this.
 
-Check out the following links to find your group: [GS1](https://drive.google.com/file/d/1i0A5ZKE0HK2nXTNV_z7qA9an1mPd_JK8/view?usp=sharing)
+Check out the following links to find your group by assignment: **[GS1](https://drive.google.com/file/d/1i0A5ZKE0HK2nXTNV_z7qA9an1mPd_JK8/view?usp=sharing)**
+
+The following link contains all teams alphabetically: **[All Teams](https://drive.google.com/file/d/1T4mtlshZPMGCUSltK8h5Oiu470li8Uyk/view?usp=sharing)**
 
 
 
 
-This page was last updated on `r Sys.time()` Eastern Time.
+This page was last updated on `r Sys.time()` Eastern Time by Super Mario.
