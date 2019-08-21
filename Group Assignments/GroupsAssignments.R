@@ -21,13 +21,7 @@ Group.select.func<-function(data,random.seed){
 }
 
 #Selecting Groups for Game-Day Speeches
-GDS.1=Group.select.func(Section,216)
-write_csv(GDS.1,path=str_c(getwd(),"/GDS1 Group Assignments.csv"))
+GS.1=Group.select.func(Section,216)
+write_csv(GS.1,path=str_c(getwd(),"/GS1 Group Assignments.csv"))
 
 
-#Selecting Groups for Playoffs (Round 1)
-
-#Selecting Groups for Playoffs (Round 2)
-
-#Save Datasets
-write_csv(Final.Section,path=str_c(getwd(),"/STOR390 Group Assignments.csv"))

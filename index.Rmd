@@ -111,7 +111,7 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|Aug. 21|Syllabus     |||
+|Aug. 21|Syllabus     |[Survey](https://forms.gle/Cr4DhbEh9S1gaJmd9)||
 |Aug. 23|Introduction I | ||
 |Aug. 26|Introduction II |||
 |Aug. 28|Baseball I|||
@@ -305,15 +305,22 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 |Sep. 13 (10:10AM)||RS2|||
 |Sep. 20 (10:10AM)|GS2||||
 |Sep. 27 (10:10AM)||RS3|||
-|Oct. 4 (10:10AM)|||P1||
+|Oct. 4 (5:00PM)|||P1||
 |Oct. 11 (10:10AM)|GS3||||
 |Oct. 25 (10:10AM)||RS4|||
-|Nov. 1 (10:10AM)|||P2||
+|Nov. 1 (5:00PM)|||P2||
 |Nov. 8 (10:10AM)|GS4||||
 |Nov. 15 (10:10AM)||RS5|||
 |Nov. 22 (10:10AM)|GS5||||
 |Dec.13 (8:00AM)||||C|
 |          |                   |               |           |              |
+
+
+# **Team Sport**
+
+Many of the assessments in this course will be done in a teams of 4 or 5 students randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 5 and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this.
+
+Check out the following links to find your group: [GS1](https://drive.google.com/file/d/1i0A5ZKE0HK2nXTNV_z7qA9an1mPd_JK8/view?usp=sharing)
 
 
 
