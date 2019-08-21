@@ -5,7 +5,9 @@ output:
   html_document:
     theme: cosmo
     toc: yes
-    toc_float: yes
+    toc_float:
+      collapsed: false
+      smooth_scroll: false
     includes:
       in_header: "favicon.html"
   pdf_document:
@@ -61,6 +63,8 @@ background-color: #13294B;
 
 </style>
 
+# **Overview** {.tabset}
+
 Survey the application of statistics and mathematics to the sports industry exploring the history of analytics across various sports, understanding the advantages of sports analytics for both on-field performance and off-field business decisions, and examining current research to encourage creative thought of future development.
 
 The course will be organized by sport to ensure a comprehensive exploration of sports analytics. We will start with in-depth studies in Baseball, Basketball, American Football, Hockey, and Soccer. Later in the course, we will branch out according to the diverse interests of the class.
@@ -84,7 +88,7 @@ The statistical programming language R will be used to generate visualizations a
   </div>
 </div> 
 
-# **Textbooks**
+# **Textbooks** {.tabset}
 
 ## Required
 
@@ -101,49 +105,68 @@ The statistical programming language R will be used to generate visualizations a
 - Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers, Alamar, 2013, [ISBN: 9780231162920](https://www.amazon.com/Sports-Analytics-Coaches-Managers-Decision/dp/0231162928/ref=sr_1_1?keywords=sports+analytics+alamar&qid=1565993176&s=books&sr=1-1) (SPAN)
 
 
-# **Course Material**
+# **Film Sessions** {.tabset}
 
-| Date | Lecture | Slides | Reading |
+## First Period
+
+| Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|Aug. 21|Syllabus     | [Slides]()||
-|Aug. 23|Introduction I | [Slides]()||
-|Aug. 26|Introduction II |[Slides]()||
-|Aug. 28|Baseball I|[Slides]()||
-|Aug. 30|Baseball II|[Slides]()||
+|Aug. 21|Syllabus     |||
+|Aug. 23|Introduction I | ||
+|Aug. 26|Introduction II |||
+|Aug. 28|Baseball I|||
+|Aug. 30|Baseball II|||
 |Sep. 2|No Labor Day|||
-|Sep. 4||[Slides]()||
-|Sep. 6||[Slides]()||
-|Sep. 9||[Slides]()||
-|Sep. 11||[Slides]()||
-|Sep. 13||[Slides]()||
-|Sep. 16||[Slides]()||
-|Sep. 18||[Slides]()||
-|Sep. 20|Cleveland Talk|||
-|Sep. 23||||
-|Sep. 25||||
-|Sep. 27||||
-|Sep. 30||||
-|Oct. 2||||
-|Oct. 4||||
-|Oct. 7||||
-|Oct. 9||||
-|Oct. 11||||
-|Oct. 14||||
-|Oct. 16||||
+|Sep. 4|Baseball III|||
+|Sep. 6|Baseball IV|||
+|Sep. 9|Baseball V|||
+|Sep. 11|Basketball I|||
+|Sep. 13|Basketball II|||
+|||||
+
+## Second Period
+
+| Date | Lecture | Material | Reading |
+|------|---------|--------:|---------:|
+|Sep. 16|Basketball III|||
+|Sep. 18|Basketball IV|||
+|Sep. 20|Going to Cleveland|||
+|Sep. 23|Basketball V|||
+|Sep. 25|Football I|||
+|Sep. 27|Football II|||
+|Sep. 30|Football III|||
+|Oct. 2|Football IV|||
+|Oct. 4|Football V|||
+|Oct. 7|Hockey I|||
+|Oct. 9|Hockey II|||
+|||||
+
+## Third Period
+
+| Date | Lecture | Material | Reading |
+|------|---------|--------:|---------:|
+|Oct. 11|Hockey III|||
+|Oct. 14|Hockey IV|||
+|Oct. 16|Hockey V|||
 |Oct. 18|Fall Break|||
-|Oct. 21||||
-|Oct. 23||||
-|Oct. 25||||
-|Oct. 28||||
-|Oct. 30||||
-|Nov. 1||||
-|Nov. 4||||
-|Nov. 6||||
-|Nov. 8||||
-|Nov. 11||||
-|Nov. 13||||
-|Nov. 15||||
-|Nov. 18||||
+|Oct. 21|Soccer I|||
+|Oct. 23|Soccer II|||
+|Oct. 25|Soccer III|||
+|Oct. 28|Soccer IV|||
+|Oct. 30|Soccer V|||
+|Nov. 1|Betting I|||
+|Nov. 4|Betting II|||
+|Nov. 6|Betting III|||
+|||||
+
+## Overtime
+| Date | Lecture | Material | Reading |
+|------|---------|--------:|---------:|
+|Nov. 8|Golf I|||
+|Nov. 11|Golf II|||
+|Nov. 13|Nascar I|||
+|Nov. 15|Nascar II|||
+|Nov. 18|Track/Cycling|||
 |Nov. 20||||
 |Nov. 22||||
 |Nov. 25||||
@@ -153,33 +176,144 @@ The statistical programming language R will be used to generate visualizations a
 |Dec. 4||||
 |||||
 
-# **Assignments**
 
-In this class, your performance will be graded using four different assignments: attendance (10%), gameday speeches (20%), regular season (20%), playoffs (30%), and championship (20%). Except for the regular season, this class is a team sport. For the gameday speeches, playoffs, and championship, you will be randomly assigned to a team. Teams will contain 4 or 5 playas and constantly change throughout the semester. You can find your team on this **[spreadsheet](https://drive.google.com/file/d/1T4mtlshZPMGCUSltK8h5Oiu470li8Uyk/view?usp=sharing)**.
+# **Assignments** {.tabset}
 
-## **Attendance**
+In this class, your performance will be graded using four different assignments: practice (10%), gameday speeches (20%), regular season (20%), playoffs (30%), and championship (20%). Except for the regular season, this class is a team sport. For the gameday speeches, playoffs, and championship, you will be randomly assigned to a team. Teams will contain 4 or 5 playas and constantly change throughout the semester. You can find your team on this **[spreadsheet](https://drive.google.com/file/d/1T4mtlshZPMGCUSltK8h5Oiu470li8Uyk/view?usp=sharing)**.
 
+## Practice
 
-## **Gameday Speeches**
+Just like practice is mandatory for the athlete attendance is mandatory for you. Once per week at random, I will take attendance at the beginning of class in the form of an interactive game worth 0-7 points. Students not present will be placed on the injury report and ineligible for points. At the end of the semester, the practice grade will be curved so students who had perfect attendance get 100% on their practice grade.
 
-## **Regular Season**
+-------
 
-## **Playoffs**
+>Not the game, but we're talking about practice, man.
+>
+>
+> ~ _Allen Iverson_
 
-### Round 1
+-------
 
-### Round 2
+## Gameday Speeches
 
-## **Championship**
+Gameday speeches are to be done in teams. Biweekly, I will give you a journal article(s) from a refereed journal to read and summarize in a 6 slide gameday speech using summarized bullet points. 
 
-## **Assignment Tracker**
+- Slide 1: Title of the article, the names of the author(s), and the name(s) of the presenters.
+
+- Slide 2-3: Summarize the overarching theme of the article(s). Discuss the research goal of the paper.
+
+- Slide 4-5: Talk about the methodology. What did the author(s) do to answer their research goal?
+
+- Slide 6: What did you like? What did you find confusing? What did you find problematic? What could the author(s) have done better?
+
+The presentation should be submitted on **[Sakai](https://sakai.unc.edu/welcome/)** before class starts on the due date. On gameday, I will use a random number generator to pick 2 groups to present in 3 to 7 minutes. All groups will be graded based on the criteria, but only 2 groups will present. This will be followed by an in-class discussion.
+
+-------
+
+>And just when you think they are about to break apart, Ducks fly together.
+>
+>
+> ~ _Gordon Bombay_
+
+-------
+
+## Regular Season
+
+The regular season consists of biweekly quizzes on the material presented in class over the previous two weeks. This includes what was taught in lecture and what was presented during gameday speeches. The quizzes will be multiple choice, and you will be given 20 minutes to complete in class. 
+
+-------
+
+>There's two times of year for me: Football season, and waiting for football season. 
+>
+>
+> ~ _Darius Rucker_
+
+-------
+
+# **Projects** {.tabset}
+
+There will be two rounds of playoffs during the semester both of which can be considered as miniature team projects. Both projects will have detailed rubrics.
+
+## Playoffs Round 1
+
+The first round will be a data gathering and summary report. Imagine you are an analyst working for the coach or athlete and want to discover insights that would bring a competitive edge. You will have to establish a research goal, watch an event/game, gather the data, and summarize your results using statistics and visualization. All of your findings will be summarized in a paper of 3 to 5 pages.
+
+-------
+
+>I'm not looking for home runs, I'm looking for the playoffs.
+>
+>
+> ~ _Sammy Sosa_
+
+-------
+
+## Playoffs Round 2
+
+The second round will be a sports betting project in which you will gamble $0. I will supply you with data, and then you will be required to analyze data for the purpose of making bets against point spreads. You are required to some form of statistical modeling or machine learning. In a paper of 3 to 5 pages, you will summarize the data you used, the methodology employed, and your final picks based off prediction.
+
+-------
+
+>People judge you by the way you play in the playoffs.
+>
+>
+> ~ _Jaromir Jagr_
+
+-------
+
+## Championship
+
+The Championship will consist of a 4 to 7 paged research paper with a minimum of 10 citations studying a sport of interest that is not of focus in the course. Like the playoffs, this final assignment will be done in a team. Sometime during the scheduled final exam time, Friday, December 13, between 8:00AM and 11:00AM, your team will meet with me to turn in your paper and discuss what you learned. The paper will be organized in the following subsections:
+
+### Introduction
+
+Describe the sport selected by writing about how it is played, when is it played, where is it most popular, how much capital is invested, and why you chose it.
+
+### Literature Review
+
+Discuss how analytics have been used historically in the sport, what types of metrics are used to evaluate performance on the field and/or off the field, who are the best athletes/teams/organizations based off those metrics. Many obscure sports do not have an extensive history of complex analytics, but all sports track information in order to evaluate performance. Talk about any implementation of gambling and what types of bets exist.
+
+### Future Work
+
+Critically think about where you see ways in which analytics can be used to improve the sport. Think about ways in which analytics from other more popular sports could be applicable in the sport you selected. Try to creatively design metrics that could be of use to evaluate performance. This section is the most important and should test your ability to innovate in areas primarily ignored that require innovation for growth. What information does the sport have or not have that could help the organizations, managers, or athletes that are financially invested in the sport you selected.
+
+### Conclusion: 
+
+Summarize your paper and discuss what appreciation you gained for this sport after your in-depth analysis.
+
+-------
+
+>Talent wins games, but teamwork and intelligence wins championships.
+>
+>
+> ~ _Jordan_
+
+>No matter how good one individual is, it takes a whole team to win a championship.
+>
+>
+> ~ _King James_
+
+-------
+
+# **Assignment Tracker** {.tabset}
 
 Any assignments requiring a deliverable will be submitted via **[Sakai](https://sakai.unc.edu/welcome/)**. 
 
-| Assigned | Gameday Speeches | Regular Season | Playoffs | Championship | Due Date (Time) |
-|----------|:--------:|:-------------:|:-------------:|:-------------:|----------------:|
-|||||||
-|          |                   |               |           |              |                 |
+| Due Date (Time) | Gameday Speeches (GS) | Regular Season (RS) | Playoffs (P) | Championship (C)| 
+|-----------------|:---------------------:|:-------------------:|:------------:|:---------------:|
+|Aug. 30 (10:10AM)||RS1|||
+|Sep. 6 (10:10AM)|GS1||||
+|Sep. 13 (10:10AM)||RS2|||
+|Sep. 20 (10:10AM)|GS2||||
+|Sep. 27 (10:10AM)||RS3|||
+|Oct. 4 (10:10AM)|||P1||
+|Oct. 11 (10:10AM)|GS3||||
+|Oct. 25 (10:10AM)||RS4|||
+|Nov. 1 (10:10AM)|||P2||
+|Nov. 8 (10:10AM)|GS4||||
+|Nov. 15 (10:10AM)||RS5|||
+|Nov. 22 (10:10AM)|GS5||||
+|Dec.13 (8:00AM)||||C|
+|          |                   |               |           |              |
 
 
 
