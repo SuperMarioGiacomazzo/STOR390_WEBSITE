@@ -76,9 +76,9 @@ The statistical programming language R will be used to generate visualizations a
 <div class="row">
   <div class="column">
 
-- Instructor: **[Mario Giacomazzo](http://www.supermariogiacomazzo.com/)**
+- Head Coach: **[Mario Giacomazzo](http://www.supermariogiacomazzo.com/)**
 
-- Instructional Assistant: **[Samuel Booth](http://stat-or.unc.edu/people/graduate-students-department)**
+- Personal Trainer: **[Samuel Booth](http://stat-or.unc.edu/people/graduate-students-department)**
 
 - **[Course Syllabus](https://drive.google.com/file/d/1lTegcZJIH6PQp_8QCaHWn5psQSJZwUAT/view?usp=sharing)**
 
@@ -112,8 +112,8 @@ The statistical programming language R will be used to generate visualizations a
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
 |Aug. 21|Syllabus     |[Survey](https://forms.gle/Cr4DhbEh9S1gaJmd9)||
-|Aug. 23|Introduction I | ||
-|Aug. 26|Introduction II |||
+|Aug. 23|Introduction I | [Slides](https://drive.google.com/file/d/1zkCl9YMcGOWFjjyT4txOYIgvas_pzqVG/view?usp=sharing) |Ch. 1 (SPAN), [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america) |
+|Aug. 26|Introduction II || Ch. 2-7 (SPAN), [Article 1](https://drive.google.com/file/d/1RdVg3vop-6G3iQMvo-IAofCh5bY2FoNj/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1z7cmE4r-J-i3Qsndof9dXT74_YrnEF6H/view?usp=sharing)|
 |Aug. 28|Baseball I|||
 |Aug. 30|Baseball II|||
 |Sep. 2|No Labor Day|||
