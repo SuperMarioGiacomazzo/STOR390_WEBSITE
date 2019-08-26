@@ -111,7 +111,7 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|Aug. 21|Syllabus     | [Survey](https://forms.gle/Cr4DhbEh9S1gaJmd9) ||
+|Aug. 21|Syllabus     | [Surve](https://forms.gle/Cr4DhbEh9S1gaJmd9) ||
 |Aug. 23|Sports Analytics I | [Slides](https://drive.google.com/file/d/1KPEyKpmzcb-Ja1ZPpXdW1-1W9nYy4kMZ/view?usp=sharing) |Ch. 1 (SPAN), [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america) |
 |Aug. 26|Sports Analytics II | [Slides](https://drive.google.com/file/d/1lfcA3xIfrkVmyLGh0IjyrdopSHkjwNPO/view?usp=sharing) | Ch. 1-7 (SPAN)|
 |||| [Web 1a](https://scholarblogs.emory.edu/esma/2016/09/21/a-short-course-on-sports-analytics-part-1/), [Web 1b](https://scholarblogs.emory.edu/esma/2016/09/28/understanding-the-organization-sports-analytics-series-part-2/), [Web 1c](https://scholarblogs.emory.edu/esma/2016/10/04/questioning-the-value-of-analytics-sports-analytics-series-part-3/), [Web 1d](https://scholarblogs.emory.edu/esma/2016/10/27/decision-biases-sports-analytics-series-part-4/), [Web 1e](https://scholarblogs.emory.edu/esma/2016/11/08/moving-towards-modeling-lessons-from-other-arenas-sports-analytics-series-part-5/)|
