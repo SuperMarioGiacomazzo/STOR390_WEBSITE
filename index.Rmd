@@ -111,17 +111,17 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|Aug. 21|Syllabus     |[Survey](https://forms.gle/Cr4DhbEh9S1gaJmd9)||
-|Aug. 23|Introduction I | [Slides](https://drive.google.com/file/d/1zkCl9YMcGOWFjjyT4txOYIgvas_pzqVG/view?usp=sharing) |Ch. 1 (SPAN), [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america) |
-|Aug. 26|Introduction II || Ch. 2-7 (SPAN), [Article 1](https://drive.google.com/file/d/1RdVg3vop-6G3iQMvo-IAofCh5bY2FoNj/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1z7cmE4r-J-i3Qsndof9dXT74_YrnEF6H/view?usp=sharing)|
+|Aug. 21|Syllabus     | [Survey](https://forms.gle/Cr4DhbEh9S1gaJmd9) ||
+|Aug. 23|Sports Analytics I | [Slides](https://drive.google.com/file/d/1KPEyKpmzcb-Ja1ZPpXdW1-1W9nYy4kMZ/view?usp=sharing) |Ch. 1 (SPAN), [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america) |
+|Aug. 26|Sports Analytics II | [Slides](https://drive.google.com/file/d/1lfcA3xIfrkVmyLGh0IjyrdopSHkjwNPO/view?usp=sharing) | Ch. 1-7 (SPAN)|
 |||| [Web 1a](https://scholarblogs.emory.edu/esma/2016/09/21/a-short-course-on-sports-analytics-part-1/), [Web 1b](https://scholarblogs.emory.edu/esma/2016/09/28/understanding-the-organization-sports-analytics-series-part-2/), [Web 1c](https://scholarblogs.emory.edu/esma/2016/10/04/questioning-the-value-of-analytics-sports-analytics-series-part-3/), [Web 1d](https://scholarblogs.emory.edu/esma/2016/10/27/decision-biases-sports-analytics-series-part-4/), [Web 1e](https://scholarblogs.emory.edu/esma/2016/11/08/moving-towards-modeling-lessons-from-other-arenas-sports-analytics-series-part-5/)|
 |||| [Web 2a](https://scholarblogs.emory.edu/esma/2017/10/08/player-analytics-fundamentals-part-1/), [Web 2b](https://scholarblogs.emory.edu/esma/2017/10/15/player-analytics-fundamentals-part-2-performance-metrics/), [Web 2c](https://scholarblogs.emory.edu/esma/2017/10/27/player-analytics-fundamentals-part-3-metrics-and-experts/), [Web 2d](https://scholarblogs.emory.edu/esma/2017/11/12/player-analytics-fundamentals-part-4-statistical-models/), [Web 2e](https://scholarblogs.emory.edu/esma/2017/11/28/player-analytics-fundamentals-part-5-modeling-102/)|
-|Aug. 28|Baseball I|||
-|Aug. 30|Baseball II|||
+|Aug. 28|Sports Analytics III||[Article 1](https://drive.google.com/file/d/1RdVg3vop-6G3iQMvo-IAofCh5bY2FoNj/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1z7cmE4r-J-i3Qsndof9dXT74_YrnEF6H/view?usp=sharing)|
+|Aug. 30|Baseball I|||
 |Sep. 2|No Labor Day|||
-|Sep. 4|Baseball III|||
-|Sep. 6|Baseball IV|||
-|Sep. 9|Baseball V|||
+|Sep. 4|Baseball II|||
+|Sep. 6|Baseball III|||
+|Sep. 9|Baseball IV|||
 |Sep. 11|Basketball I|||
 |Sep. 13|Basketball II|||
 |||||
