@@ -112,8 +112,8 @@ The statistical programming language R will be used to generate visualizations a
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
 |Aug. 21|Syllabus     | [Survey](https://forms.gle/Cr4DhbEh9S1gaJmd9) ||
-|Aug. 23|Sports Analytics I | [Slides](https://drive.google.com/file/d/1KPEyKpmzcb-Ja1ZPpXdW1-1W9nYy4kMZ/view?usp=sharing) |Ch. 1 (SPAN), [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america) |
-|Aug. 26|Sports Analytics II | [Slides](https://drive.google.com/file/d/1lfcA3xIfrkVmyLGh0IjyrdopSHkjwNPO/view?usp=sharing) | Ch. 1-7 (SPAN)|
+|Aug. 23|Sports Analytics I | [Slides](https://drive.google.com/file/d/1KPEyKpmzcb-Ja1ZPpXdW1-1W9nYy4kMZ/view?usp=sharing) |Ch. 1 SPAN, [Web 1](https://sportsshow.net/top-10-most-popular-sports-in-the-world/), [Web 2](https://sportsshow.net/most-popular-sports-in-america/), [Web 3](https://howmuch.net/articles/sports-leagues-by-revenue), [Web 4](https://blog.sisuguard.com/what-is-the-fastest-growing-sport-in-america) |
+|Aug. 26|Sports Analytics II | [Slides](https://drive.google.com/file/d/1lfcA3xIfrkVmyLGh0IjyrdopSHkjwNPO/view?usp=sharing) | Ch. 1-7 SPAN|
 |||| [Web 1a](https://scholarblogs.emory.edu/esma/2016/09/21/a-short-course-on-sports-analytics-part-1/), [Web 1b](https://scholarblogs.emory.edu/esma/2016/09/28/understanding-the-organization-sports-analytics-series-part-2/), [Web 1c](https://scholarblogs.emory.edu/esma/2016/10/04/questioning-the-value-of-analytics-sports-analytics-series-part-3/), [Web 1d](https://scholarblogs.emory.edu/esma/2016/10/27/decision-biases-sports-analytics-series-part-4/), [Web 1e](https://scholarblogs.emory.edu/esma/2016/11/08/moving-towards-modeling-lessons-from-other-arenas-sports-analytics-series-part-5/)|
 |||| [Web 2a](https://scholarblogs.emory.edu/esma/2017/10/08/player-analytics-fundamentals-part-1/), [Web 2b](https://scholarblogs.emory.edu/esma/2017/10/15/player-analytics-fundamentals-part-2-performance-metrics/), [Web 2c](https://scholarblogs.emory.edu/esma/2017/10/27/player-analytics-fundamentals-part-3-metrics-and-experts/), [Web 2d](https://scholarblogs.emory.edu/esma/2017/11/12/player-analytics-fundamentals-part-4-statistical-models/), [Web 2e](https://scholarblogs.emory.edu/esma/2017/11/28/player-analytics-fundamentals-part-5-modeling-102/)|
 |Aug. 28|Sports Analytics III||[Article 1](https://drive.google.com/file/d/1RdVg3vop-6G3iQMvo-IAofCh5bY2FoNj/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1z7cmE4r-J-i3Qsndof9dXT74_YrnEF6H/view?usp=sharing)|
@@ -179,7 +179,7 @@ The statistical programming language R will be used to generate visualizations a
 |||||
 
 
-# **Assignments** {.tabset}
+# **Fundamentals** {.tabset}
 
 In this class, your performance will be graded using four different assignments: practice (10%), gameday speeches (20%), regular season (20%), playoffs (30%), and championship (20%). Except for the regular season, this class is a team sport. For the gameday speeches, playoffs, and championship, you will be randomly assigned to a team.
 
@@ -208,7 +208,7 @@ Gameday speeches are to be done in teams. Biweekly, I will give you a journal ar
 
 - Slide 6: What did you like? What did you find confusing? What did you find problematic? What could the author(s) have done better?
 
-The presentation should be submitted on **[Sakai](https://sakai.unc.edu/welcome/)** before class starts on the due date. On gameday, I will use a random number generator to pick 2 groups to present in 3 to 7 minutes. All groups will be graded based on the criteria, but only 2 groups will present. This will be followed by an in-class discussion.
+The presentation should be submitted on **[Sakai](https://sakai.unc.edu/welcome/)** before class starts on the due date. Each group should have their own presentation, but needs to be submitted by every member of the group. On gameday, I will use a random number generator to pick 2 groups to present in 3 to 7 minutes. All groups will be graded based on the criteria, but only 2 groups will present. This will be followed by an in-class discussion.
 
 Consider the following rubric and notice the bonus points for the lucky presenting groups:
 
@@ -318,7 +318,7 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 | Due Date (Time) | Gameday Speeches (GS) | Regular Season (RS) | Playoffs (P) | Championship (C)| 
 |-----------------|:---------------------:|:-------------------:|:------------:|:---------------:|
 |Aug. 30 (10:10AM)||RS1|||
-|Sep. 6 (10:10AM)|GS1||||
+|Sep. 6 (10:10AM)|GS1 (Ch. 3 HSMAS)||||
 |Sep. 13 (10:10AM)||RS2|||
 |Sep. 20 (10:10AM)|GS2||||
 |Sep. 27 (10:10AM)||RS3|||
