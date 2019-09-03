@@ -104,6 +104,10 @@ The statistical programming language R will be used to generate visualizations a
 
 - Sports Analytics: A Guide for Coaches, Managers, and Other Decision Makers, Alamar, 2013, [ISBN: 9780231162920](https://www.amazon.com/Sports-Analytics-Coaches-Managers-Decision/dp/0231162928/ref=sr_1_1?keywords=sports+analytics+alamar&qid=1565993176&s=books&sr=1-1) (SPAN)
 
+- Practicing Sabermetrics: Putting the Science of Baseball Statistics to Work, Costa et Al., 2009, [ISBN: 9780786441778](https://www.amazon.com/Practicing-Sabermetrics-Putting-Baseball-Statistics-ebook/dp/B00EEQ65J6/ref=sr_1_1?keywords=9780786441778&qid=1567533724&s=gateway&sr=8-1) (PS)
+
+- Analyzing Baseball Data with R, Marchi and Albert, 2014, [ISBN:9781466570238](https://www.amazon.com/Analyzing-Baseball-Data-Chapman-Hall-ebook/dp/B00GBC36S4/ref=sr_1_1?keywords=9781466570238&qid=1567536374&s=gateway&sr=8-1) (ABDR)
+
 
 # **Film Sessions** {.tabset}
 
@@ -120,7 +124,7 @@ The statistical programming language R will be used to generate visualizations a
 ||||[Web 4](https://www.soccermetrics.net/misc-stuff/sports-analytics-career-advice), [Web 5](http://statsheetstuffer.com/conferences/), [Web 6](http://sportsanalyticsconferences.com/)|
 |Aug. 30|Sports Analytics IV| [Slides](https://drive.google.com/file/d/1nr28iSQltZXia9xLJZT6ZAOmkEXJgPfG/view?usp=sharing) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Article 1](https://drive.google.com/file/d/1RdVg3vop-6G3iQMvo-IAofCh5bY2FoNj/view?usp=sharing) |
 |Sep. 2|No Labor Day|||
-|Sep. 4|Baseball II|||
+|Sep. 4|Baseball II| [Slides](https://drive.google.com/file/d/1atEda9nQWpUb6ONvIeKU7E2ADzKN9MCW/view?usp=sharing) | [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](https://drive.google.com/file/d/1hSq2MuQUmKZ6_HPktQGbfyf4TQjrHSK-/view?usp=sharing) |
 |Sep. 6|Baseball III|||
 |Sep. 9|Baseball IV|||
 |Sep. 11|Basketball I|||
