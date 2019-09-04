@@ -108,6 +108,8 @@ The statistical programming language R will be used to generate visualizations a
 
 - Analyzing Baseball Data with R, Marchi and Albert, 2014, [ISBN:9781466570238](https://www.amazon.com/Analyzing-Baseball-Data-Chapman-Hall-ebook/dp/B00GBC36S4/ref=sr_1_1?keywords=9781466570238&qid=1567536374&s=gateway&sr=8-1) (ABDR)
 
+- Sports Math: An Introductory Course in the Mathematics of Sports Science and Sports Analytics, Minton, 2017, [ISBN:9781498706261](https://www.amazon.com/Sports-Math-Introductory-Mathematics-Analytics-ebook/dp/B01N6Y6EVT/ref=sr_1_1?keywords=9781498706261&qid=1567565121&s=gateway&sr=8-1) (SM)
+
 
 # **Film Sessions** {.tabset}
 
@@ -124,7 +126,7 @@ The statistical programming language R will be used to generate visualizations a
 ||||[Web 4](https://www.soccermetrics.net/misc-stuff/sports-analytics-career-advice), [Web 5](http://statsheetstuffer.com/conferences/), [Web 6](http://sportsanalyticsconferences.com/)|
 |Aug. 30|Sports Analytics IV| [Slides](https://drive.google.com/file/d/1nr28iSQltZXia9xLJZT6ZAOmkEXJgPfG/view?usp=sharing) | [Web 1](https://www.sportsmanagementworldwide.com/), [Web 2](https://www.udemy.com/courses/search/?src=ukw&q=sports%20analytics), [Article 1](https://drive.google.com/file/d/1RdVg3vop-6G3iQMvo-IAofCh5bY2FoNj/view?usp=sharing) |
 |Sep. 2|No Labor Day|||
-|Sep. 4|Baseball II| [Slides](https://drive.google.com/file/d/1atEda9nQWpUb6ONvIeKU7E2ADzKN9MCW/view?usp=sharing) | [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](https://drive.google.com/file/d/1hSq2MuQUmKZ6_HPktQGbfyf4TQjrHSK-/view?usp=sharing) |
+|Sep. 4|Baseball II| [Slides](https://drive.google.com/file/d/1atEda9nQWpUb6ONvIeKU7E2ADzKN9MCW/view?usp=sharing) | Ch.1 MATH, Ch.7 SM, [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](https://drive.google.com/file/d/1hSq2MuQUmKZ6_HPktQGbfyf4TQjrHSK-/view?usp=sharing) |
 |Sep. 6|Baseball III|||
 |Sep. 9|Baseball IV|||
 |Sep. 11|Basketball I|||
