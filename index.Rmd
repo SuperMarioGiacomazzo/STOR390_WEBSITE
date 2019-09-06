@@ -128,7 +128,7 @@ The statistical programming language R will be used to generate visualizations a
 |Sep. 2|No Labor Day|||
 |Sep. 4|Baseball I| [Slides](https://drive.google.com/file/d/1atEda9nQWpUb6ONvIeKU7E2ADzKN9MCW/view?usp=sharing) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](https://drive.google.com/file/d/1hSq2MuQUmKZ6_HPktQGbfyf4TQjrHSK-/view?usp=sharing) |
 |Sep. 6|Baseball II| [Slides](https://drive.google.com/file/d/1qkloV55AzDL_hX11a_qqCkDjHcXEUVI3/view?usp=sharing) |Ch.1-2 MATH, Ch.7 SM|
-|Sep. 9|Baseball III|||
+|Sep. 9|Baseball III| [Slides]() ||
 |Sep. 11|Baseball IV|||
 |Sep. 13|Baseball V|||
 |||||
@@ -213,7 +213,7 @@ Gameday speeches are to be done in teams. Biweekly, I will give you a journal ar
 
 - Slide 4-5: Talk about the methodology. What did the author(s) do to answer their research goal? Discuss the methodology in at least 6 bullet points.
 
-- Slide 6: What did you like? What did you find confusing? What did you find problematic? What could the author(s) have done better? Give at least 2 positive opionions of the paper and at least 1 negative critique.
+- Slide 6: What did you like? What did you find confusing? What did you find problematic? What could the author(s) have done better? Give at least 2 positive opinions of the paper and at least 1 negative critique.
 
 On gameday, I will use a random number generator to pick 2 groups to present in 3 to 7 minutes. All groups will be graded based on the criteria, but only 2 groups will present. This will be followed by an in-class discussion.
 
