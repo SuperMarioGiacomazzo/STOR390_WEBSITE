@@ -20,8 +20,15 @@ Group.select.func<-function(data,random.seed){
   return(group)
 }
 
+#######################################
 #Selecting Groups for Game-Day Speeches
-GS.1=Group.select.func(Section,216)
-write_csv(GS.1,path=str_c(getwd(),"/GS1 Group Assignments.csv"))
+#######################################
 
+#GS.1=Group.select.func(Section,216)
+#write_csv(GS.1,path=str_c(getwd(),"/GS1 Group Assignments.csv"))
 
+#GS.2=Group.select.func(Section,480)
+#write_csv(GS.2,path=str_c(getwd(),"/GS2 Group Assignments.csv"))
+
+GS.3=Group.select.func(Section,440)
+write_csv(GS.2,path=str_c(getwd(),"/GS3 Group Assignments.csv"))
