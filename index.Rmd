@@ -128,7 +128,7 @@ The statistical programming language R will be used to generate visualizations a
 |Sep. 2|No Labor Day|||
 |Sep. 4|Baseball I| [Slides](https://drive.google.com/file/d/1atEda9nQWpUb6ONvIeKU7E2ADzKN9MCW/view?usp=sharing) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](https://drive.google.com/file/d/1hSq2MuQUmKZ6_HPktQGbfyf4TQjrHSK-/view?usp=sharing) |
 |Sep. 6|Baseball II| [Slides](https://drive.google.com/file/d/1qkloV55AzDL_hX11a_qqCkDjHcXEUVI3/view?usp=sharing) |Ch.1-2 MATH, Ch.7 SM|
-|Sep. 9|Baseball III| [Slides]() ||
+|Sep. 9|Baseball III| [Slides](https://drive.google.com/file/d/11egyhpG8isS45gaS_TIxb2BVS0tdYyq6/view?usp=sharing) |Ch. 3-4 MATH|
 |Sep. 11|Baseball IV|||
 |Sep. 13|Baseball V|||
 |||||
