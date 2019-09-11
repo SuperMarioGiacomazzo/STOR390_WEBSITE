@@ -128,9 +128,9 @@ The statistical programming language R will be used to generate visualizations a
 |Sep. 2|No Labor Day|||
 |Sep. 4|Baseball I| [Slides](https://drive.google.com/file/d/1atEda9nQWpUb6ONvIeKU7E2ADzKN9MCW/view?usp=sharing) |  [Web 1](https://sabr.org/about/founders), [Web 2](https://sabr.org/sabermetrics), [Article 1](https://drive.google.com/file/d/1hSq2MuQUmKZ6_HPktQGbfyf4TQjrHSK-/view?usp=sharing) |
 |Sep. 6|Baseball II| [Slides](https://drive.google.com/file/d/1qkloV55AzDL_hX11a_qqCkDjHcXEUVI3/view?usp=sharing) |Ch.1-2 MATH, Ch.7 SM|
-|Sep. 9|Baseball III| [Slides](https://drive.google.com/file/d/11egyhpG8isS45gaS_TIxb2BVS0tdYyq6/view?usp=sharing) |Ch. 3-4 MATH|
-|Sep. 11|Baseball IV|||
-|Sep. 13|Baseball V|||
+|Sep. 9|Baseball III| [Slides](https://drive.google.com/file/d/11egyhpG8isS45gaS_TIxb2BVS0tdYyq6/view?usp=sharing) |Ch. 3 MATH|
+|Sep. 11|Baseball IV| [Slides](https://drive.google.com/file/d/1dYKTLBjG-To_DaXK_3Ys1JcQfBmmWV2V/view?usp=sharing) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
+|Sep. 13|Baseball V||Ch. 6-7 MATH|
 |||||
 
 ## Second Period
@@ -347,7 +347,14 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 
 Many of the assessments in this course will be done in a teams of 4 or 5 playas randomly chosen. For each team-based assignment, you will be given a different team. This will force you to interact with the majority of the class throughout the semester. After each team-based assignment, you will grade the contribution of your teammates on a scale from 0 to 5, and this will contribute to your overall grade for the given assignment. A decent portion of your final grade will be influenced by this.
 
-Check out the following links to find your group by assignment: **[GS1](https://drive.google.com/file/d/1i0A5ZKE0HK2nXTNV_z7qA9an1mPd_JK8/view?usp=sharing)** **[GS2](https://drive.google.com/file/d/1MkrAYRCzSN1kvzpbRSBCiWCkv6mPQ7eh/view?usp=sharing)**
+Check out the following links to find your group by assignment: 
+**[GS1](https://drive.google.com/file/d/1i0A5ZKE0HK2nXTNV_z7qA9an1mPd_JK8/view?usp=sharing)** **[GS2](https://drive.google.com/file/d/1MkrAYRCzSN1kvzpbRSBCiWCkv6mPQ7eh/view?usp=sharing)**
+**[P1](https://drive.google.com/file/d/14dD4GfBPvzZ74VQjm9GJUMXBejKxrJCi/view?usp=sharing)**
+**[GS3](https://drive.google.com/file/d/1Kgd4cxpXCfgPkyYCl1zhYa2AGxu8k50a/view?usp=sharing)**
+**[GS4](https://drive.google.com/file/d/1D0pYfxWofRoDQH99L6YOPV-FgepfFHHm/view?usp=sharing)**
+**[P2](https://drive.google.com/file/d/1LvP8lCMs9JCu7m5Tni93qWvTCXn1lEdw/view?usp=sharing)**
+**[GS5](https://drive.google.com/file/d/1NvjqO8Ck2ViGX70J-muG47Wt-Gju1SZ7/view?usp=sharing)**
+**[C](https://drive.google.com/file/d/1O0Xs3XOu5yFWNMVFCqUFHejvNEPQee87/view?usp=sharing)**
 
 The following link contains all teams alphabetically: **[All Teams](https://drive.google.com/file/d/1EgaUCHawmNNjFJ0fArkHMZ5QYNPL3cXq/view?usp=sharing)**
 

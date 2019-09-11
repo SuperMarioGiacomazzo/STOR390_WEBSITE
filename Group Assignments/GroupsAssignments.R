@@ -30,5 +30,20 @@ Group.select.func<-function(data,random.seed){
 #GS.2=Group.select.func(Section,480)
 #write_csv(GS.2,path=str_c(getwd(),"/GS2 Group Assignments.csv"))
 
-GS.3=Group.select.func(Section,440)
-write_csv(GS.2,path=str_c(getwd(),"/GS3 Group Assignments.csv"))
+#P.1=Group.select.func(Section,440)
+#write_csv(P.1,path=str_c(getwd(),"/P1 Group Assignments.csv"))
+
+GS.3=Group.select.func(Section,919)
+write_csv(GS.3,path=str_c(getwd(),"/GS3 Group Assignments.csv"))
+
+GS.4=Group.select.func(Section,984)
+write_csv(GS.4,path=str_c(getwd(),"/GS4 Group Assignments.csv"))
+
+P.2=Group.select.func(Section,305)
+write_csv(P.2,path=str_c(getwd(),"/P2 Group Assignments.csv"))
+
+GS.5=Group.select.func(Section,330)
+write_csv(GS.5,path=str_c(getwd(),"/GS5 Group Assignments.csv"))
+
+C=Group.select.func(Section,980)
+write_csv(C,path=str_c(getwd(),"/C Group Assignments.csv"))
