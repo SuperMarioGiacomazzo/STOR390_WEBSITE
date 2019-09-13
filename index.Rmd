@@ -130,54 +130,55 @@ The statistical programming language R will be used to generate visualizations a
 |Sep. 6|Baseball II| [Slides](https://drive.google.com/file/d/1qkloV55AzDL_hX11a_qqCkDjHcXEUVI3/view?usp=sharing) |Ch.1-2 MATH, Ch.7 SM|
 |Sep. 9|Baseball III| [Slides](https://drive.google.com/file/d/11egyhpG8isS45gaS_TIxb2BVS0tdYyq6/view?usp=sharing) |Ch. 3 MATH|
 |Sep. 11|Baseball IV| [Slides](https://drive.google.com/file/d/1dYKTLBjG-To_DaXK_3Ys1JcQfBmmWV2V/view?usp=sharing) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
-|Sep. 13|Baseball V||Ch. 6-7 MATH|
+|Sep. 13|Baseball V| [Slides](https://drive.google.com/file/d/1jQg3I-J38bwVkr4dN_2rR5JXkc2WlAqm/view?usp=sharing) |Ch. 6 MATH|
+|Sep. 16|Baseball VI| [Slides]() ||
 |||||
 
 ## Second Period
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|Sep. 16|Basketball III|||
-|Sep. 18|Basketball IV|||
+|Sep. 18|Basketball I|||
 |Sep. 20|Going to Cleveland|||
-|Sep. 23|Basketball V|||
-|Sep. 25|Football I|||
-|Sep. 27|Football II|||
-|Sep. 30|Football III|||
-|Oct. 2|Football IV|||
-|Oct. 4|Football V|||
-|Oct. 7|Hockey I|||
-|Oct. 9|Hockey II|||
+|Sep. 23|Basketball II|||
+|Sep. 25|Basketball III|||
+|Sep. 27|Basketball IV|||
+|Sep. 30|Basketball V|||
+|Oct. 2|Basketball VI|||
+|Oct. 4|Football I|||
+|Oct. 7|Football II|||
+|Oct. 9|Football III|||
+|Oct. 11|Football IV|||
+|Oct. 14|Football V|||
+|Oct. 16|Football VI|||
 |||||
 
 ## Third Period
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|Oct. 11|Hockey III|||
-|Oct. 14|Hockey IV|||
-|Oct. 16|Hockey V|||
+|Oct. 16|Hockey I|||
 |Oct. 18|Fall Break|||
-|Oct. 21|Soccer I|||
-|Oct. 23|Soccer II|||
-|Oct. 25|Soccer III|||
-|Oct. 28|Soccer IV|||
-|Oct. 30|Soccer V|||
-|Nov. 1|Betting I|||
-|Nov. 4|Betting II|||
-|Nov. 6|Betting III|||
+|Oct. 21|Hockey II|||
+|Oct. 23|Hockey III|||
+|Oct. 25|Hockey IV|||
+|Oct. 28|Hockey V|||
+|Oct. 30|Sports Gambling I|||
+|Nov. 1|Sports Gambling II|||
+|Nov. 4|Sports Gambling III|||
+|Nov. 6|Sports Gambling IV|||
+|Nov. 8|Sports Gambling V|||
 |||||
 
 ## Overtime
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|Nov. 8|Golf I|||
-|Nov. 11|Golf II|||
-|Nov. 13|Nascar I|||
-|Nov. 15|Nascar II|||
-|Nov. 18|Track/Cycling|||
-|Nov. 20||||
-|Nov. 22||||
+|Nov. 11|Soccer I|||
+|Nov. 13|Soccer II|||
+|Nov. 15|Soccer III|||
+|Nov. 18|Soccer IV|||
+|Nov. 20|Soccer V|||
+|Nov. 22|Soccer VI|||
 |Nov. 25||||
 |Nov. 27|Thanksgiving|||
 |Nov. 29|Thanksgiving|||
@@ -263,7 +264,69 @@ There will be two rounds of playoffs during the semester both of which can be co
 
 ## Playoffs Round 1
 
-The first round will be a data gathering and summary report. Imagine you are an analyst working for the coach or athlete and want to discover insights that would bring a competitive edge. You will have to establish a research goal, watch an event/game, gather the data, and summarize your results using statistics and visualization. All of your findings will be summarized in a paper of 3 to 5 pages.
+The first round will be a data gathering and summary report. Imagine you are an analyst working for the coach or athlete and want to discover insights that would bring a competitive edge. In a world saturated with data, the way to ensure your analysis is unique and creative is to get the data yourself. To successfully conduct your study, you should follow the steps below:
+
+1. Decide on What Area of Sports You Would Like to Analyze
+     - This Can Be Any Traditional Sport (Baseball, NASCAR, Soccer, Volleyball, Tennis, etc.)
+     - This Can Be A More Obscure Sport (Cornhole, Climbing, Drone Racing, etc.)
+     - This Can Be A Video Game that Is Played Competitively
+     - This Can Be A Board Game that Is Played Competitively
+     
+2. Critically Think About What Questions/Opinions That You or Society Have About the Sport
+     - What Statistics or Metrics Can Be Used to Describe Success
+     - What Information Contributes to Success
+
+3. Plan the Study After Discussing the Sport With Your Team
+     - Choose the Level at Which to Gather Data (Team, Player, Game, Play/Event, Time, etc.)
+     - Choosing Levels at Higher Resolutions Make it Easier to Gather Enough Data
+     - Identify at Least 5 Variables You Want to Gather at the Specified Level
+     - Variables Can Be All Categorical, All Numeric, or Mixture
+
+4. Watch or Play the Sport Enough Times to Get a Minimum of 25 Observations (Highly Advise Aiming for More)
+     - Depends on the Level at Which You're Gathering Data
+     - Example: If the Level is Game, You Would Need to Watch or Play the Sport at Least 25 Times
+     - Example: If the Level is Play/Event, You Would Need to Watch Enough to Gather Data for 25 Plays or Events
+     - Example: If the Level is Time (minutes), You Would have to Gather Information for A Minimum of 25 Minutes
+
+5. As a Team, Track the Data in a Spreadsheet
+     - All Data Must Be Recorded in the Same Electronic Spreadsheet (Excel,CSV, etc.)
+     - Each Row Should Be a Different Observation According to the Level Selected
+     - Can Be Recorded on Paper Separately, But Must Be Compiled Electronically Into a Single Spreadsheet
+
+Your study should be summarized in a paper of 3 to 5 pages. The paper and dataset should be submitted on **[Sakai](https://sakai.unc.edu/welcome/)** before 5:00PM on October 18. Each group should have their own paper and data, but both need to be submitted by every member of the group. Also, each group member needs to assess the contribution value of the other members of the team on a scale from 0 (Bad) to 3 (Excellent). When you submit your paper on **[Sakai](https://sakai.unc.edu/welcome/)**, you should write the full names of the other group members and the value of their contribution. Your individual value will be determined by the average score the other members in your group gave you. 
+
+On the first page, you should title your paper and give the names of the team members who contributed.  The content of the paper should be organized in the following 3 subsections:
+
+### 1) Introduction to the Data
+
+
+### 2) Summary of the Data
+
+
+### 3) Insights from the Data
+
+
+
+### Rubric
+
+The first playoff round is worth a total of __ points based on the following rubric:
+
+| Criteria | 0 | 1 | 2 | 3 |
+|:-----------:|:------:|:------:|:------:|:------:|
+|Title Page ||||Title,Team Members |
+|Introduction: Purpose |||||
+|Introduction: Preview |||||
+|Introduction: Description |||||
+|Summary: Table |||||
+|Summary: Figure 1 |||||
+|Summary: Figure 2 |||||
+|Insights: First Insight|||||
+|Insights: Second Insight|||||
+|Insights: Done Differently |||||
+|Spelling|>5 Errors| 3-5 Errors|1-2 Errors|No Errors|
+|Value|Bad|Okay|Good|Excellent|
+|Submitted|Late|||On Time|
+||||||
 
 -------
 
@@ -291,19 +354,19 @@ The second round will be a sports betting project in which you will gamble $0. I
 
 The Championship will consist of a 4 to 7 paged research paper with a minimum of 10 citations studying a sport of interest that is not of focus in the course. Like the playoffs, this final assignment will be done in a team. Sometime during the scheduled final exam time, Friday, December 13, between 8:00AM and 11:00AM, your team will meet with me to turn in your paper and discuss what you learned. The paper will be organized in the following subsections:
 
-### Introduction
+### 1) Introduction
 
 Describe the sport selected by writing about how it is played, when is it played, where is it most popular, how much capital is invested, and why you chose it.
 
-### Literature Review
+### 2) Literature Review
 
 Discuss how analytics have been used historically in the sport, what types of metrics are used to evaluate performance on the field and/or off the field, who are the best athletes/teams/organizations based off those metrics. Many obscure sports do not have an extensive history of complex analytics, but all sports track information in order to evaluate performance. Talk about any implementation of gambling and what types of bets exist.
 
-### Future Work
+### 3) Future Work
 
 Critically think about where you see ways in which analytics can be used to improve the sport. Think about ways in which analytics from other more popular sports could be applicable in the sport you selected. Try to creatively design metrics that could be of use to evaluate performance. This section is the most important and should test your ability to innovate in areas primarily ignored that require innovation for growth. What information does the sport have or not have that could help the organizations, managers, or athletes that are financially invested in the sport you selected.
 
-### Conclusion
+### 4) Conclusion
 
 Summarize your paper and discuss what appreciation you gained for this sport after your in-depth analysis.
 
@@ -330,16 +393,16 @@ Any assignments requiring a deliverable will be submitted via **[Sakai](https://
 |Aug. 30 (10:10AM)||RS1|||
 |Sep. 6 (10:10AM)|GS1 (Ch. 3 HSMAS)||||
 |Sep. 13 (10:10AM)||RS2|||
-|Sep. 20 (10:10AM)|GS2 (Ch. 10 HSMAS)||||
-|Sep. 27 (10:10AM)||RS3|||
-|Oct. 4 (5:00PM)|||P1||
+|Sep. 27 (10:10AM)|GS2 (Ch. 10 HSMAS)||||
+|Oct. 4 (10:10AM)||RS3|||
 |Oct. 11 (10:10AM)|GS3||||
+|Oct. 18 (5:00PM)|||P1||
 |Oct. 25 (10:10AM)||RS4|||
-|Nov. 1 (5:00PM)|||P2||
-|Nov. 8 (10:10AM)|GS4||||
-|Nov. 15 (10:10AM)||RS5|||
+|Nov. 1 (10:10AM)|GS4||||
+|Nov. 8 (10:10AM)||RS5|||
+|Nov. 15 (5:00PM)|||P2||
 |Nov. 22 (10:10AM)|GS5||||
-|Dec.13 (8:00AM)||||C|
+|Dec. 13 (8:00AM)||||C|
 |          |                   |               |           |              |
 
 
