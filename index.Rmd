@@ -131,7 +131,7 @@ The statistical programming language R will be used to generate visualizations a
 |Sep. 9|Baseball III| [Slides](https://drive.google.com/file/d/11egyhpG8isS45gaS_TIxb2BVS0tdYyq6/view?usp=sharing) |Ch. 3 MATH|
 |Sep. 11|Baseball IV| [Slides](https://drive.google.com/file/d/1dYKTLBjG-To_DaXK_3Ys1JcQfBmmWV2V/view?usp=sharing) |Ch. 4-5 MATH, [Web 1](http://www.programmingr.com/monte-carlo-simulation-in-r/), [Web 2](https://www.baseballprospectus.com/news/article/878/pitching-and-defense-how-much-control-do-hurlers-have/)|
 |Sep. 13|Baseball V| [Slides](https://drive.google.com/file/d/1jQg3I-J38bwVkr4dN_2rR5JXkc2WlAqm/view?usp=sharing) |Ch. 6 MATH|
-|Sep. 16|Baseball VI| [Slides]() ||
+|Sep. 16|Baseball VI| [Slides](https://drive.google.com/file/d/10SD5dD6n5EpBZnQEj6pHkdjELpGJw71D/view?usp=sharing) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](https://drive.google.com/file/d/14MMQsVBhpkDT-bRyBVtZjDmhZB6eJj2x/view?usp=sharing)|
 |||||
 
 ## Second Period
