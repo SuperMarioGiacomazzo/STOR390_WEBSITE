@@ -298,7 +298,7 @@ Your study should be summarized in a paper of 3 to 5 pages. The paper and datase
 On the first page, you should title your paper and give the names of the team members who contributed.  The content of the paper should be organized in the following 3 subsections:
 
 ### 1) Introduction to the Data
-
+In this section, you should discuss three things. First, you should write about the sport/game your team selected to analyze and the purpose of 
 
 ### 2) Summary of the Data
 
