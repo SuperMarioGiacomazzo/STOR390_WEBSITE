@@ -133,19 +133,18 @@ The statistical programming language R will be used to generate visualizations a
 |Sep. 13|Baseball V| [Slides](https://drive.google.com/file/d/1jQg3I-J38bwVkr4dN_2rR5JXkc2WlAqm/view?usp=sharing) |Ch. 6 MATH|
 |Sep. 16|Baseball VI| [Slides](https://drive.google.com/file/d/10SD5dD6n5EpBZnQEj6pHkdjELpGJw71D/view?usp=sharing) |Ch. 8-9 MATH, [Web 1](http://sagarin.com/mills/seasons.htm), [Web 2](https://www.beyondtheboxscore.com/2014/1/10/5291950/basic-sabermetrics-wins-above-replacement-war-fwar-bwar-warp), [Article 1](https://drive.google.com/file/d/14MMQsVBhpkDT-bRyBVtZjDmhZB6eJj2x/view?usp=sharing)|
 |Sep. 18|Baseball VII| [Slides](https://drive.google.com/file/d/1K5KwoV2eomTVjNUx-JEy_gHn2aWoydyb/view?usp=sharing) |Ch. 11,16 MATH, [Article 1](https://drive.google.com/file/d/1Vh9lgz3ISdPidKu_aQvfqx1KEK3XGLr5/view?usp=sharing) [Article 2](https://drive.google.com/file/d/1_hipiLdZV8yn3WLDc_GNbiLv7SWktdkA/view?usp=sharing)|
+|Sep. 20|Going to Cleveland|||
 |||||
 
 ## Second Period
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-
-|Sep. 20|Going to Cleveland|||
-|Sep. 23|Basketball II|||
-|Sep. 25|Basketball III|||
-|Sep. 27|Basketball IV|||
-|Sep. 30|Basketball V|||
-|Oct. 2|Basketball VI|||
+|Sep. 23|Basketball I| [Slides](https://drive.google.com/file/d/1Gr1XoOzrB6kKMwEF4fayhLGOc5BV_AUy/view?usp=sharing) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/)|
+|Sep. 25|Basketball II|||
+|Sep. 27|Basketball III|||
+|Sep. 30|Basketball IV|||
+|Oct. 2|Basketball V|||
 |Oct. 4|Football I|||
 |Oct. 7|Football II|||
 |Oct. 9|Football III|||
