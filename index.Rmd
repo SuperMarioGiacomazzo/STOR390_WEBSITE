@@ -141,7 +141,7 @@ The statistical programming language R will be used to generate visualizations a
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
 |Sep. 23|Basketball I| [Slides](https://drive.google.com/file/d/1Gr1XoOzrB6kKMwEF4fayhLGOc5BV_AUy/view?usp=sharing) |Ch. 28-29 MATH, [Web 1](https://stories.thinkingmachin.es/nba-in-30-years/#targetText=While%20not%20as%20high%20as,for%20us%20to%20enjoy!) [Web 2](http://www.basketballonpaper.com/), [Web 3](https://squared2020.com/2017/09/05/introduction-to-olivers-four-factors/) |
-|Sep. 25|Basketball II| [Slides](https://drive.google.com/file/d/1rKXC8gUMFaOCelajnLo7AK3z5caAiKe_/view?usp=sharing) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/) |
+|Sep. 25|Basketball II| [Slides](https://drive.google.com/file/d/1rKXC8gUMFaOCelajnLo7AK3z5caAiKe_/view?usp=sharing) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Article 1](https://drive.google.com/file/d/1DFB4n-VoTXNGedEilnR7bGHKu-QHWK-_/view?usp=sharing) |
 |Sep. 27|Basketball III|||
 |Sep. 30|Basketball IV|||
 |Oct. 2|Basketball V|||
