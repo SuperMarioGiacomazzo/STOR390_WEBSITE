@@ -144,8 +144,8 @@ The statistical programming language R will be used to generate visualizations a
 |Sep. 25|Basketball II| [Slides](https://drive.google.com/file/d/1rKXC8gUMFaOCelajnLo7AK3z5caAiKe_/view?usp=sharing) |Ch. 30 MATH, [Web 1](https://hockey-graphs.com/2016/11/01/behind-the-numbers-why-plusminus-is-the-worst-statistic-in-hockey-and-should-be-abolished/), [Web 2](https://squared2020.com/2017/09/18/deep-dive-on-regularized-adjusted-plus-minus-i-introductory-example/), [Article 1](https://drive.google.com/file/d/1DFB4n-VoTXNGedEilnR7bGHKu-QHWK-_/view?usp=sharing) |
 |Sep. 27|Basketball II (Cont.)| ||
 |Sep. 30|Basketball III| [Slides](https://drive.google.com/file/d/1jN6uMGcQBjjTlADeqC5kcx1u_ceVviRQ/view?usp=sharing) |Ch. 31-32 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
-|Oct. 2|Basketball IV| [Slides](https://drive.google.com/file/d/1_tFVoDEozwLinpCGKj83hMGfXQkx1ykS/view?usp=sharing) |Ch. 33-34 MATH|
-|Oct. 4|Basketball V||Ch. 35-36 MATH|
+|Oct. 2|Basketball IV| [Slides](https://drive.google.com/file/d/1_tFVoDEozwLinpCGKj83hMGfXQkx1ykS/view?usp=sharing) |Ch. 33 MATH|
+|Oct. 4|Basketball V||Ch. 34-35 MATH|
 |Oct. 7|Basketball VI||Ch. 37 MATH|
 |Oct. 9|Football II|||
 |Oct. 11|Football III|||
