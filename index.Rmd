@@ -146,12 +146,16 @@ The statistical programming language R will be used to generate visualizations a
 |Sep. 30|Basketball III| [Slides](https://drive.google.com/file/d/1jN6uMGcQBjjTlADeqC5kcx1u_ceVviRQ/view?usp=sharing) |Ch. 31-32 MATH, [Web 1](https://stats.nba.com/lineups/advanced/), [Web 2](http://www.82games.com/comm2.htm), [Web 3](https://squared2020.com/2018/12/13/five-man-lineups-data-access/)|
 |Oct. 2|Basketball IV| [Slides](https://drive.google.com/file/d/1_tFVoDEozwLinpCGKj83hMGfXQkx1ykS/view?usp=sharing) |Ch. 33 MATH|
 |Oct. 4|Basketball V| [Slides](https://drive.google.com/file/d/1MZTELss9N--DZ5QOrOiFzY-ZZ9PSWAwU/view?usp=sharing) |Ch. 34-35 MATH, [Web 1](https://www.nytimes.com/2011/04/13/sports/ncaabasketball/13gamble.html), [Web 2](https://las.illinois.edu/news/2006-09-01/no-foul), [Article 1](https://drive.google.com/file/d/1IbVau96nk2aVq1BLRSFMcuh-L-fHpf39/view?usp=sharing)|
-|Oct. 7|Basketball VI||Ch. 37 MATH|
-|Oct. 9|Football II|||
-|Oct. 11|Football III|||
-|Oct. 14|Football IV|||
-|Oct. 16|Football V|||
+|Oct. 7|Basketball VI| [Slides](https://drive.google.com/file/d/1sj39_gNr1svp3L_kLJwHexesAxZQG0JZ/view?usp=sharing) |Ch. 37 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)|
+|||| [Article 1](https://drive.google.com/drive/folders/1wbMyQq_VFh-G0fGpHdFqC0kEMDZqtN7W), [Article 2](https://drive.google.com/drive/folders/1wbMyQq_VFh-G0fGpHdFqC0kEMDZqtN7W), [Article 3](https://drive.google.com/file/d/1eXPMOt4-jhAFLVKqt_tSxd_35-mDHpwI/view?usp=sharing)|
+|Oct. 9|Football I|||
+|Oct. 11|Football II|||
+|Oct. 14|Football III|||
+|Oct. 16|Football IV|||
 |Oct. 18|Fall Break|||
+|Oct. 21|Football V|||
+|Oct. 23|Football VI|||
+|Oct. 25|Football VII|||
 |||||
 
 ## Third Period
