@@ -149,13 +149,13 @@ The statistical programming language R will be used to generate visualizations a
 |Oct. 7|Basketball VI| [Slides](https://drive.google.com/file/d/1sj39_gNr1svp3L_kLJwHexesAxZQG0JZ/view?usp=sharing) |Ch. 37 MATH, [Web 1](https://www.inpredictable.com/2016/05/endgame-strategy-in-nba.html), [Web 2](http://www.82games.com/lawhorn.htm)|
 |||| [Article 1](https://drive.google.com/drive/folders/1wbMyQq_VFh-G0fGpHdFqC0kEMDZqtN7W), [Article 2](https://drive.google.com/drive/folders/1wbMyQq_VFh-G0fGpHdFqC0kEMDZqtN7W), [Article 3](https://drive.google.com/file/d/1eXPMOt4-jhAFLVKqt_tSxd_35-mDHpwI/view?usp=sharing)|
 |Oct. 9|Football I| [Slides](https://drive.google.com/file/d/1Pv_O-iaXcQHEhLkGXJJ8kGj0quNPuO1v/view?usp=sharing) |Ch. 18 MATH|
-|Oct. 11|Football II|||
-|Oct. 14|Football III|||
-|Oct. 16|Football IV|||
+|Oct. 11|Football I (Cont.)|||
+|Oct. 14|Football II|||
+|Oct. 16|Football III|||
 |Oct. 18|Fall Break|||
-|Oct. 21|Football V|||
-|Oct. 23|Football VI|||
-|Oct. 25|Football VII|||
+|Oct. 21|Football IV|||
+|Oct. 23|Football V|||
+|Oct. 25|Football VI|||
 |||||
 
 ## Third Period
