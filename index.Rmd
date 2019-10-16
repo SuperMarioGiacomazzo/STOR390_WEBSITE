@@ -150,7 +150,7 @@ The statistical programming language R will be used to generate visualizations a
 |||| [Article 1](https://drive.google.com/drive/folders/1wbMyQq_VFh-G0fGpHdFqC0kEMDZqtN7W), [Article 2](https://drive.google.com/drive/folders/1wbMyQq_VFh-G0fGpHdFqC0kEMDZqtN7W), [Article 3](https://drive.google.com/file/d/1eXPMOt4-jhAFLVKqt_tSxd_35-mDHpwI/view?usp=sharing)|
 |Oct. 9|Football I| [Slides](https://drive.google.com/file/d/1Pv_O-iaXcQHEhLkGXJJ8kGj0quNPuO1v/view?usp=sharing) |Ch. 18 MATH|
 |Oct. 11|Football I (Cont.)|||
-|Oct. 14|Football II| [Slides](https://drive.google.com/file/d/123W_mNiGBhpV8_pD0edc6StDr9rnNkKN/view?usp=sharing) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks)|
+|Oct. 14|Football II| [Slides](https://drive.google.com/file/d/123W_mNiGBhpV8_pD0edc6StDr9rnNkKN/view?usp=sharing) |Ch. 19 MATH, [Web 1](https://hbr.org/2019/04/whos-the-most-important-member-of-an-nfl-franchise), [Web 2](https://bleacherreport.com/articles/1691533-which-metric-matters-most-when-evaluating-nfl-quarterbacks), [Article 1](https://drive.google.com/file/d/1Kn85QfPLuLKvzSaKNgr4_sJAr9AN2h3J/view?usp=sharing) |
 |Oct. 16|Football III| [Slides](https://drive.google.com/file/d/1FvZNhzBgF7MnLsQRpi3jSC8F1ERJyV9j/view?usp=sharing) |Ch. 20 MATH, [Article 1](https://drive.google.com/file/d/1RnP3Ob88JdGRdNyWhKYxFEMEfQVlpiiZ/view?usp=sharing), [Article 2](https://drive.google.com/file/d/15CR45R7dUS4csuRLz3YZsiKTXYZMyx2F/view?usp=sharing), [Article 3](https://drive.google.com/file/d/14ZtYeAq0Ith7gyhEHQqDLUVGp0Ci8ssm/view?usp=sharing) |
 |Oct. 18|Fall Break|||
 |Oct. 21|Football IV|||
