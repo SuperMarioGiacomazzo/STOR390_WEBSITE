@@ -163,7 +163,7 @@ The statistical programming language R will be used to generate visualizations a
 |Oct. 21|Prediction Project ([Cleat Street](https://www.cleat-street.com/))|| [Web 1](http://archive.advancedfootballanalytics.com/2007/07/what-makes-teams-win-3.html), [Web 2](http://archive.advancedfootballanalytics.com/2007/09/nfl-win-prediction-methodology.html)|
 |||| [Article 1](https://drive.google.com/file/d/1nGBlp3YsTrAJsETfgUoLv14VPok-mTu8/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1EPhnpMGhUZ0DySd6H0Yh3Ep3RsHdEJi4/view?usp=sharing), [Article 3](https://drive.google.com/file/d/1nDpVpoQSL630OiXmxq6LbbGyKWjMw0ys/view?usp=sharing), [Article 4](https://drive.google.com/drive/folders/1pY3LUj4k2bzBvNAFHBcflAJ-1hDbiBnG) |
 |Oct. 23|Football IV| [Slides](https://drive.google.com/file/d/1afpOI8HiN99VbUq39nVCtHUpsx05eZvL/view?usp=sharing) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](https://drive.google.com/file/d/1dM7UsQVay5nRLG8eqCfK-7NjAq0xoCJ9/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1PcEhklJ0I8qH-EAcMI4cYH2Jna7zkaKo/view?usp=sharing) |
-|Oct. 25|Football VI|||
+|Oct. 25|Football V| [Slides](https://drive.google.com/file/d/15TR8WyEaKj94muEaPtvX7tbNAG-Bbalj/view?usp=sharing) | Ch. 22 MATH|
 |||||
 
 ## Third Period
