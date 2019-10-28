@@ -164,23 +164,22 @@ The statistical programming language R will be used to generate visualizations a
 |||| [Article 1](https://drive.google.com/file/d/1nGBlp3YsTrAJsETfgUoLv14VPok-mTu8/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1EPhnpMGhUZ0DySd6H0Yh3Ep3RsHdEJi4/view?usp=sharing), [Article 3](https://drive.google.com/file/d/1nDpVpoQSL630OiXmxq6LbbGyKWjMw0ys/view?usp=sharing), [Article 4](https://drive.google.com/drive/folders/1pY3LUj4k2bzBvNAFHBcflAJ-1hDbiBnG) |
 |Oct. 23|Football IV| [Slides](https://drive.google.com/file/d/1afpOI8HiN99VbUq39nVCtHUpsx05eZvL/view?usp=sharing) | Ch. 21 MATH, [Web 1](https://medium.com/@technocat79/building-a-basic-in-game-win-probability-model-for-the-nfl-54600e57fe1c), [Article 1](https://drive.google.com/file/d/1dM7UsQVay5nRLG8eqCfK-7NjAq0xoCJ9/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1PcEhklJ0I8qH-EAcMI4cYH2Jna7zkaKo/view?usp=sharing) |
 |Oct. 25|Football V| [Slides](https://drive.google.com/file/d/15TR8WyEaKj94muEaPtvX7tbNAG-Bbalj/view?usp=sharing) | Ch. 22 MATH|
+|Oct. 28|Football VI| [Slides](https://drive.google.com/file/d/14zxNCHyEbJio0VCqTrts_in7AlVfHTPF/view?usp=sharing) | Ch. 23 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](https://www.fieldgulls.com/seahawks-analysis/2015/1/9/7517551/understanding-effective-play-calling-with-game-theory) |
+|Oct. 30 |Football VII|  | Ch. 26-27 MATH|
 |||||
 
 ## Third Period
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|Oct. 16|Hockey I|||
-|Oct. 18|Fall Break|||
-|Oct. 21|Hockey II|||
-|Oct. 23|Hockey III|||
-|Oct. 25|Hockey IV|||
-|Oct. 28|Hockey V|||
-|Oct. 30|Sports Gambling I|||
-|Nov. 1|Sports Gambling II|||
-|Nov. 4|Sports Gambling III|||
-|Nov. 6|Sports Gambling IV|||
-|Nov. 8|Sports Gambling V|||
+|Nov. 1|Sports Gambling I|||
+|Nov. 4|Sports Gambling II|||
+|Nov. 6|Sports Gambling III|||
+|Nov. 8|Sports Gambling IV|||
+|Nov. 11|Hockey I|||
+|Nov. 13|Hockey II|||
+|Nov. 15|Hockey III|||
+|Nov. 18|Hockey IV|||
 |||||
 
 ## Overtime
