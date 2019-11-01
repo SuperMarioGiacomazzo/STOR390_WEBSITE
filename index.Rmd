@@ -167,36 +167,27 @@ The statistical programming language R will be used to generate visualizations a
 |Oct. 28|Football VI| [Slides](https://drive.google.com/file/d/14zxNCHyEbJio0VCqTrts_in7AlVfHTPF/view?usp=sharing) | Ch. 23 MATH, [Web 1](https://cs.stanford.edu/people/eroberts/courses/soco/projects/1998-99/game-theory/neumann.html), [Web 2](https://plato.stanford.edu/entries/game-theory/), [Web 3](https://www.fieldgulls.com/seahawks-analysis/2015/1/9/7517551/understanding-effective-play-calling-with-game-theory) |
 |Oct. 30 |Football VII| [Slides](https://drive.google.com/file/d/1hqnvyz-lhZy5Z3Ui5u6VLkC9eu1iNtr4/view?usp=sharing)  | Ch. 26-27 MATH, [Web 1](https://profootballtalk.nbcsports.com/2019/01/22/coin-toss-would-remain-important-if-ot-rule-is-tweaked/), [Web 2](https://www.businessinsider.com/bill-belichick-new-england-patriots-draft-philosophy-2017-4#1hes-always-about-building-a-team-hes-not-trying-to-collect-talent-1) |
 |||  | [Article 1](https://drive.google.com/file/d/1Fduezv2BojgM__edY-3kP_C03Ds4iDm_/view?usp=sharing), [Article 2](https://drive.google.com/file/d/1F2zx60VkSlFi5lvgo_pCsRSgE7ULAES8/view?usp=sharing) |
+|Nov. 1 |Football VII (Cont.)|||
 |||||
 
 ## Third Period
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|Nov. 1|Sports Gambling I|||
-|Nov. 4|Sports Gambling II|||
-|Nov. 6|Sports Gambling III|||
-|Nov. 8|Sports Gambling IV|||
+|Nov. 4|Sports Gambling I||Ch. 38-39 MATH|
+|Nov. 6|Sports Gambling II||Ch. 40 MATH|
+|Nov. 8|Sports Gambling III||Ch. 44 MATH |
 |Nov. 11|Hockey I|||
 |Nov. 13|Hockey II|||
 |Nov. 15|Hockey III|||
-|Nov. 18|Hockey IV|||
-|||||
-
-## Overtime
-| Date | Lecture | Material | Reading |
-|------|---------|--------:|---------:|
-|Nov. 11|Soccer I|||
-|Nov. 13|Soccer II|||
-|Nov. 15|Soccer III|||
-|Nov. 18|Soccer IV|||
-|Nov. 20|Soccer V|||
-|Nov. 22|Soccer VI|||
-|Nov. 25||||
+|Nov. 18|Soccer I|||
+|Nov. 20|Soccer II|||
+|Nov. 22|Soccer III|||
+|Nov. 25|Soccer IV|||
 |Nov. 27|Thanksgiving|||
 |Nov. 29|Thanksgiving|||
-|Dec. 2||||
-|Dec. 4||||
+|Dec. 2|Guest Speaker|||
+|Dec. 4|Guest Speaker|||
 |||||
 
 
