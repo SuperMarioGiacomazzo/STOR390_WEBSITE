@@ -174,8 +174,9 @@ The statistical programming language R will be used to generate visualizations a
 
 | Date | Lecture | Material | Reading |
 |------|---------|--------:|---------:|
-|Nov. 4|Sports Gambling I||Ch. 38-39 MATH|
-|Nov. 6|Sports Gambling II||Ch. 40 MATH|
+|Nov. 4|Sports Gambling I| [Slides](https://drive.google.com/file/d/1I_FzKFo94mOck0cLmA-zZfVDWZI47SJb/view?usp=sharing) |Ch. 38 MATH, [Web 1](https://www.thesportsgeek.com/sports-betting/what-is-a-unit/), [Web 2](https://mybettingsites.co.uk/learn/betting-odds-explained/), [Web 3](https://www.actionnetwork.com/betting-calculators/betting-odds-calculator), [Web 4](https://www.vegas.com/gaming/gaming-tips/sports-betting/) |
+||||[Web 9](https://www.thesportsgeek.com/blog/beginners-tips-understanding-parlay-119/) ,[Web 10](https://www.thelines.com/betting/teaser/)|
+|Nov. 6|Sports Gambling II||Ch. 39,40 MATH|
 |Nov. 8|Sports Gambling III||Ch. 44 MATH |
 |Nov. 11|Hockey I|||
 |Nov. 13|Hockey II|||
