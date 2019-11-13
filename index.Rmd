@@ -179,7 +179,7 @@ The statistical programming language R will be used to generate visualizations a
 |Nov. 6|Research Week| [Slides](https://drive.google.com/file/d/16gzZ6nWer2KuB33rm9AsMkBZ0kx_-0Xc/view?usp=sharing) ||
 |Nov. 8|Sports Gambling II | [Slides](https://drive.google.com/file/d/17mpaql_4cvtIaA2ytnQ_rd4-A2c42_vP/view?usp=sharing) |Ch. 40 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) |
 |Nov. 11|Championship Info|||
-|Nov. 13|Sports Gambling III||Ch. 44 MATH|
+|Nov. 13|Sports Gambling III| [Slides](https://drive.google.com/file/d/1T8yHgucmtFVHj1-dqWBwTC7tyL7e0uqh/view?usp=sharing) |Ch. 44 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](https://drive.google.com/file/d/1ypqy9_5fxR11scJDb4m1TZZRbrS0OawX/view?usp=sharing)|
 |Nov. 15|Hockey I|||
 |Nov. 18|Hockey II|||
 |Nov. 20|Soccer I|||
