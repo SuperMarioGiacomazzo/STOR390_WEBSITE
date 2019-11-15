@@ -180,8 +180,8 @@ The statistical programming language R will be used to generate visualizations a
 |Nov. 8|Sports Gambling II | [Slides](https://drive.google.com/file/d/17mpaql_4cvtIaA2ytnQ_rd4-A2c42_vP/view?usp=sharing) |Ch. 40 MATH, [Web 1](https://fivethirtyeight.com/methodology/how-our-nfl-predictions-work/) |
 |Nov. 11|Championship Info|||
 |Nov. 13|Sports Gambling III| [Slides](https://drive.google.com/file/d/1T8yHgucmtFVHj1-dqWBwTC7tyL7e0uqh/view?usp=sharing) |Ch. 44 MATH, [Web 1](https://www.pinnacle.com/en/betting-articles/Betting-Strategy/How-to-use-kelly-criterion-for-betting/2BT2LK6K2QWQ7QJ8), [Web 2](https://www.oddsshark.com/sports-betting/best-sports-betting-strategies), [Article 1](https://drive.google.com/file/d/1ypqy9_5fxR11scJDb4m1TZZRbrS0OawX/view?usp=sharing)|
-|Nov. 15|Hockey I|||
-|Nov. 18|Hockey II|||
+|Nov. 15|Media Days|||
+|Nov. 18|Hockey I|||
 |Nov. 20|Soccer I|||
 |Nov. 22|Soccer II|||
 |Nov. 25| [Dr. Jonathan Jensen](https://exss.unc.edu/faculty-staff/jonathan-jensen/) |||
