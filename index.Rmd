@@ -6,7 +6,7 @@ output:
     theme: cosmo
     toc: yes
     toc_float:
-      collapsed: false
+      collapsed: true
       smooth_scroll: false
     includes:
       in_header: "favicon.html"
