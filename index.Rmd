@@ -183,7 +183,7 @@ The statistical programming language R will be used to generate visualizations a
 |Nov. 15|Media Days|||
 |Nov. 18| Hockey I | [Slides](https://drive.google.com/file/d/11YScnNSpjpt8VQd2sJdOo0Cr2f_9wMfx/view?usp=sharing) | Ch. 14 HSMAS, [Article 1](https://drive.google.com/drive/folders/1VG6S2eDBE64SBOrZ__hlM9H5PDK3W_1V), [Web 1](https://www.secondcityhockey.com/2013/12/4/5167404/nhl-stats-made-simple-part-1-corsi-fenwick) |
 |Nov. 20|Hockey II| [Slides](https://drive.google.com/file/d/1m8440LPLmokX1QX9-qresFqAV2PKrUTe/view?usp=sharing) | Ch. 15 HSMAS, [Web 1](http://hockeygoalies.org/stats/glossary.html), [Web 2](https://rdrr.io/cran/nhlscrapr/) |
-|Nov. 22|Hockey III|||
+|Nov. 22|Hockey II (Cont.) |||
 |Nov. 25| [Dr. Jonathan Jensen](https://exss.unc.edu/faculty-staff/jonathan-jensen/) |||
 |Nov. 27|Thanksgiving|||
 |Nov. 29|Thanksgiving|||
