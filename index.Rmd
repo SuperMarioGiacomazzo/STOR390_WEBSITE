@@ -574,9 +574,9 @@ The following link contains all teams alphabetically: **[All Teams](https://driv
 
 The predictions of all 9 teams can be accessed from the hyperlinks below. These three files contain predictions for the three separate variables and will be updated each week for the next two weeks. The order of the predictions is not organized according to your team numbers.  
 
-- [Spread](https://docs.google.com/spreadsheets/d/1azwv2SAtCKwMv-WDW0xqiMKAhNyg1QMGS6mWWzMNqlY/edit?usp=sharing)
-- [Total](https://docs.google.com/spreadsheets/d/1B8BENUIOncW-m3U5MU60yikPl0_8uJaf_h74X3DU0pU/edit?usp=sharing)
-- [Result](https://docs.google.com/spreadsheets/d/1l_XYpwpmIBPd4X2YqBYxoI4GHhyOCyI9V4nVcRUl9PQ/edit?usp=sharing)
+- [Spread](https://docs.google.com/spreadsheets/d/1yGeN7UZYx7D-5viwTapUPMDXzXaeM6FPs4Hj5vmIPIo/edit?usp=sharing)
+- [Total](https://docs.google.com/spreadsheets/d/1ZVonDvImSvH4P9awmL_9uXPUH_BmGWpYLCj_HJKeUH4/edit?usp=sharing)
+- [Result](https://docs.google.com/spreadsheets/d/1ado3iMtx2DgIwm76zRmvB9-DzfQt6p2ZT4cG8KWQ7Rw/edit?usp=sharing)
 
 The table below contains the current group ranking according to the three variables of interest. For $Spread$, I include the $RMSE$ of the groups in first and last place; for $Total$, I include the $MAE$ of the groups in first and last place; and for $Result$, I include the $ACC$ of the groups in first and last place. This ranking will be updated each week for the next two weeks.
 
